@@ -1,0 +1,2 @@
+pip install plotly.express
+pip install pybase64
